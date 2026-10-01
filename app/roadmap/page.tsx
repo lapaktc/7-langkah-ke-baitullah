@@ -153,7 +153,7 @@ Terima kasih.`
               target="_blank"
               rel="noopener noreferrer"
             >
-              Lanjut via WhatsApp
+              Bedah hasil di WA
             </a>
           </div>
 
@@ -169,7 +169,7 @@ Terima kasih.`
             Roadmap ini adalah alat awal.
             Workbook “Langkah Nyata Menuju Baitullah” membantu Anda
             mengubah niat menjadi ikhtiar yang lebih terarah melalui
-            latihan, evaluasi, dan roadmap.
+            latihan, evaluasi, dan roadmap, silahkan lanjutkan ke whatsapp admin untuk ditanggapi oleh admin kami
           </p>
         </div>
       </div>
