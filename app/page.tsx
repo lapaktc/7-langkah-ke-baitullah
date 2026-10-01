@@ -1,7 +1,9 @@
 'use client'
-import {useState} from 'react'
-import {supabaseBrowser} from '../lib/supabase'
-const steps=[
+import { useState } from 'react'
+import { useRouter } from 'next/navigation'
+import { supabaseBrowser } from '../../lib/supabase'
+
+export default function LoginPage() {
 ['Niat','Apa target utama Anda?',['Umrah','Haji']],
 ['Target waktu','Kapan Anda ingin mulai menargetkan keberangkatan?',['≤ 1 tahun','1–2 tahun','> 2 tahun','Belum menentukan']],
 ['Komitmen','Apakah Anda sudah memiliki tabungan khusus Baitullah?',['Sudah','Belum']],
