@@ -4,10 +4,10 @@ import { useEffect, useState } from 'react'
 import { supabaseBrowser } from '../../lib/supabase'
 
 const steps: [string, string, string[]][] = [
-  ['Niat', 'Apa target utama Anda?', ['Umrah', 'Haji']],
+  ['Niat', 'Apa target utama Anda?', ['Umrah', 'Haji', 'umrah dan haji']],
   [
     'Target waktu',
-    'Kapan Anda ingin mulai menargetkan keberangkatan?',
+    'Kapan Anda ingin mulai menargetkan keberangkatan ke baitullah?',
     ['≤ 1 tahun', '1–2 tahun', '> 2 tahun', 'Belum menentukan']
   ],
   [
